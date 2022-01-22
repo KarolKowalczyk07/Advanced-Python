@@ -1,1 +1,2 @@
 # Advanced-Python
+Completed LinkedIn Course for Advanced Python which included topics such as: coding styles, truth value testing, strings vs. bytes, itertools, transforms, iterators, lambda functions, documentation strings, using namedtuple, default and ordered dictionaries, deque objects, counters, enumerations, computed attributes, object operations, object comparisons, basic and custom logging, and comprehensions for lists, dictionaries, and sets.
